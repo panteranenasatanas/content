@@ -44,7 +44,7 @@ Cualquier persona en general puede aprender a programar, la programación se vue
 
 2. **Habla con otros estudiantes:** Puede que pienses que eres el único que no entiende, pero si hablas con otros compañeros verás que no eres sólo tu y te dará confianza para hacer preguntas.
 
-3. **Habla con los mentores:** Una voz con experiencia siempre es buena, hay egresados y profesores que ya han pasado por momentos difíciles o que están con dificultades ¡en este mismo momento¡
+3. **Habla con los mentores:** Una voz con experiencia siempre es buena, hay egresados y profesores que ya han pasado por momentos difíciles o que están con dificultades ¡en este mismo momento!
 
 #### Pared #2: Confianza ✝
 
